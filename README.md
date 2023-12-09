@@ -35,7 +35,7 @@ Study smarter, collaborate effectively, and achieve academic success with Study 
 - Effortlessly schedule study sessions with peers.
 - Create and take quizzes tailored to your study needs.
 
-### <a href="https://food-surplus-saver.web.app">Live Link</a>
+### <a href="https://study-together-10951.web.app/">Live Link</a>
 
 <h3>Food and Beverage (Food selling website)</h3>
 The Food and Beverage Website project aims to create a seamless online platform for users to explore a variety of food and beverage products.
@@ -47,7 +47,7 @@ The Food and Beverage Website project aims to create a seamless online platform 
 - Add,Update Product and manage that and user Authentication for security perpose
 - Develop a functional shopping cart allowing users to add, edit, and review selected items.
 
-### <a href="https://gigagadgets-f4dcf.web.app/">Live Link</a>
+### <a href="https://food-and-beverage-8cdde.web.app/">Live Link</a>
 
 
 
