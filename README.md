@@ -2,10 +2,10 @@
 <img src="Navy And White Geometric Technology  LinkedIn Banner.png">
 
 <h1 align="center">Hi 👋, I'm Mohammad Abul Kalam Azad</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend developer with a focus on React.js and modern web technologies.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on :  My ownproject<br>👯 I’m looking to collaborate on :  Open to exciting collaborations on web development projects<br>🤝 I’m looking for help with :<br>🌱 I’m currently learning : React & MongoDb<br>💬 Ask me about : Html  ,Css,  Javascript, react<br>⚡ Fun fact : I collect rare tech gadgets and have a soft spot for vintage keyboards.
+🔭 I’m currently working on :  My ownproject<br>👯 I’m looking to collaborate on :  Open to exciting collaborations on web development projects<br>🌱 I’m currently learning : React & MongoDb<br>💬 Ask me about : Html  ,Css,  Javascript, react<br>⚡ Fun fact : I collect rare tech gadgets and have a soft spot for vintage keyboards.
 
 
 ## 🌐 Socials:
