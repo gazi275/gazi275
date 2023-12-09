@@ -1,3 +1,6 @@
+
+<img src="Navy And White Geometric Technology  LinkedIn Banner.png">
+
 <h1 align="center">Hi 👋, I'm Mohammad Abul Kalam Azad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
