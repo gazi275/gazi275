@@ -2,17 +2,25 @@
 <img src="Navy And White Geometric Technology  LinkedIn Banner.png">
 
 <h1 align="center">Hi 👋, I'm Mohammad Abul Kalam Azad</h1>
-<h3 align="center">Frontend developer with a focus on React.js and modern web technologies.</h3>
+<h3 align="center"> Mern stack developer </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on :  My ownproject<br>👯 I’m looking to collaborate on :  Open to exciting collaborations on web development projects<br>🌱 I’m currently learning : React & MongoDb<br>💬 Ask me about : Html  ,Css,  Javascript, react<br>⚡ Fun fact : I collect rare tech gadgets and have a soft spot for vintage keyboards.
+I am a passionate and dedicated Web Developer with a strong foundation in React, Node.js, and MongoDB. Currently pursuing my B.Sc. in Computer Science & Engineering at Faridpur Engineering College, affiliated with the University of Dhaka, I have been honing my skills through hands-on projects and continuous learning.
+
+I thrive on collaborating with other developers and am always open to exciting opportunities in web development. My expertise spans across modern JavaScript frameworks, backend development, and full-stack applications.
+
+💡 Fun Fact: I collect rare tech gadgets and have a soft spot for vintage keyboards.
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gaziabulkalam.azad.75) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gazi-azad-49ab71294/) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+Frontend: HTML5 , CSS3, JavaScript (ES6+), React.js , Tailwind CSS , Typescript ,  NextJs , Redux ,Zustand 
+Backend: Node.js, Express.js , Typescript 
+Database: MongoDB
+Programming Languages: C, JavaScript ,Python 
+Tools & Technologies: Git, GitHub, Postman, REST APIs, JWT Authentication
 
 
 ##  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Latest Projects
