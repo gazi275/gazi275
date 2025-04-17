@@ -1,8 +1,8 @@
 
-<img src="Gray Modern Digital Marketing Linkedln Article Cover Image.png">
+<img src="Gray Modern Digital Marketing Linkedln Article Cover Image.png(1)">
 
 <h1 align="center">Hi 👋, I'm Mohammad Abul Kalam Azad</h1>
-<h3 align="center"> Mern stack developer </h3>
+<h3 align="center"> Software Enginner </h3>
 
 # 💫 About Me:
 I am a passionate and dedicated Web Developer with a strong foundation in React, Node.js, and MongoDB. Currently pursuing my B.Sc. in Computer Science & Engineering at Faridpur Engineering College, affiliated with the University of Dhaka, I have been honing my skills through hands-on projects and continuous learning.
