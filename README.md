@@ -1,5 +1,5 @@
 
-<img src="Navy And White Geometric Technology  LinkedIn Banner.png">
+<img src="Gray Modern Digital Marketing Linkedln Article Cover Image.png">
 
 <h1 align="center">Hi 👋, I'm Mohammad Abul Kalam Azad</h1>
 <h3 align="center"> Mern stack developer </h3>
@@ -16,11 +16,11 @@ I thrive on collaborating with other developers and am always open to exciting o
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gaziabulkalam.azad.75) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gazi-azad-49ab71294/) 
 
 # 💻 Tech Stack:
-Frontend: HTML5 , CSS3, JavaScript (ES6+), React.js , Tailwind CSS , Typescript ,  NextJs , Redux ,Zustand 
-Backend: Node.js, Express.js , Typescript 
+Frontend: HTML5 , CSS3, JavaScript (ES6+), React.js , Tailwind CSS , Typescript ,  NextJs , Redux ,Zustand , Axios
+Backend: Node.js, Express.js , Typescript ,JWT Authentication , Nodemailer , Mongoose
 Database: MongoDB
 Programming Languages: C, JavaScript ,Python 
-Tools & Technologies: Git, GitHub, Postman, REST APIs, JWT Authentication
+Tools & Technologies: Git, GitHub, Postman, REST APIs
 
 
 ##  <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Latest Projects
