@@ -1,5 +1,5 @@
 
-<img src="Gray Modern Digital Marketing Linkedln Article Cover Image.png(1)">
+<img src="Gray Modern Digital Marketing Linkedln Article Cover Image (1).png">
 
 <h1 align="center">Hi 👋, I'm Mohammad Abul Kalam Azad</h1>
 <h3 align="center"> Software Enginner </h3>
